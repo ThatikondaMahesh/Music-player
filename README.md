@@ -16,7 +16,7 @@ A visually stunning 🎨 and feature-rich 🎧 music player web application buil
 ## 🖼️ Screenshots
 
 ### Main Player Interface:
-![🎶 Music Player Interface](./assets/images/main_player.png)
+![🎶 Music Player Interface](./http://127.0.0.1:5500/index.html)
 
 ---
 
